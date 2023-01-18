@@ -1,0 +1,5 @@
+name: GuiHome
+version: '${version}'
+main: io.github.galaxyvn.guihome.GuiHome
+api-version: 1.19
+authors: [ GalaxyVN ]
